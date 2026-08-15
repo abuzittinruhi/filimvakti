@@ -1,7 +1,5 @@
 Film izle, dizi önerileri, popüler yapımlar ve sinema dünyasından güncel içerikler.
-#  Film izle, dizi önerileri, popüler yapımlar
-
-#  https://shadowmanga.net/
+#  Film izle, dizi önerileri, popüler yapımlar https://shadowmanga.net/
 
 <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
