@@ -9,7 +9,6 @@ Film izle, dizi önerileri, popüler yapımlar ve sinema dünyasından güncel i
 <body>
 
 <a href="https://shadowmanga.net/" title="ResimLink - Resim Yükle"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmmjsRnvLJezRgPVklPrc8NDhyyAlTqTg33fCszjUPcQ&s=10" title="ResimLink - Resim Yükle" alt="ResimLink - Resim Yükle"></a>
-<a href="https://casíbom836.com/">
     <img src="https://r.resimlink.com/o_V7IJr.jpg" />
 </a>
 </a>
